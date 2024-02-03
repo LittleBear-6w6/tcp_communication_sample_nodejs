@@ -1,0 +1,11 @@
+{
+  "name": "client",
+  "version": "1.0.0",
+  "description": "Node.jsでTCP通信する。",
+  "main": "app.js",
+  "scripts": {
+    "test": "node.js app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}

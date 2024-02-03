@@ -1,0 +1,11 @@
+{
+  "name": "sever",
+  "version": "1.0.0",
+  "description": "Node.jsで簡易サーバを構築する。",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
