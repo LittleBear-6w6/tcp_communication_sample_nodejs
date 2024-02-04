@@ -27,7 +27,7 @@ $ cd simpleExample/client
 $ node app.js
 ```
 
-## Executin result
+## Executing result
 
 These app outputs logs on terminal.
 
